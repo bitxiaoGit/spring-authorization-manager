@@ -3,3 +3,8 @@
 target/
 
 .idea/
+/bin/
+
+/.settings/
+/.classpath
+/.project
