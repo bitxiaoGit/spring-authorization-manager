@@ -1,4 +1,5 @@
 # Spring Authorization Manager
+代码详解http://www.scienjus.com/restful-token-authorization/
 
 为Api服务端添加简单的Token鉴权功能，基于Spring MVC
 
